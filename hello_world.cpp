@@ -1,7 +1,8 @@
 /*
-* name:hello_world
+* works:hello_world
 * Time:2020/08/20
 * book:P20 v2.1.3
+* autor:wanghao
 */
 
 #include <iostream>

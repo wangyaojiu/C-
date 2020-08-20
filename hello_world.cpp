@@ -1,7 +1,7 @@
 /*
 * name:hello_world
 * Time:2020/08/20
-* Dev-cpp v5.11
+* book:P20 v2.1.3
 */
 
 #include <iostream>

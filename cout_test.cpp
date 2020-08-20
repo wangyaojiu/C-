@@ -1,3 +1,10 @@
+//autor:wanghao
+//dev-cpp v5.11
+//Works:打印联系
+//Time:2020/08/20
+
+
+
 #include<iostream>
 using namespace std;
 int main(int argc, char const *argv[])
@@ -22,3 +29,5 @@ int main(int argc, char const *argv[])
     system("pause");
     return 0;
 }
+
+//最终会打印出一个平行四边形

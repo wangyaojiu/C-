@@ -1,6 +1,6 @@
-//Time£º08/21
-//works£ºP43 Àý2-4
-//autor£ºWanghao
+//TimeÂ£:08/21
+//works:P43 2-4
+//autorÂ£:Wanghao
 //dev-cpp v5.11
 //Time:08/21
 

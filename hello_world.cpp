@@ -1,8 +1,8 @@
 /*
-* works:hello_world
+* autor£ºwanghao 
 * Time:2020/08/20
-* book:P20 v2.1.3
-* autor:wanghao
+* works:P20 v2.1.3 hello_world
+* by£ºdev-cpp v5.11 
 */
 
 #include <iostream>

@@ -1,6 +1,6 @@
 ## C++
 
-<a href="http://blog.wang19.cn" target="_blank" rel="nofollow">>>>回到我的博客</a>
+<a href="http://blog.wang19.cn" target="_blank" rel="nofollow">>回到我的博客</a>
 
 <a href="https://cdn.jsdelivr.net/gh/wangyaojiu/music@master/C.pdf" target="_blank" rel="nofollow">#PDF资料</a>
 

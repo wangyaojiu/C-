@@ -1,7 +1,7 @@
 /* 
-time:08/23
+time:08/24
 vc++
-Works:µÚ¶şÕÂÏ°Ìâ
+Works:ç¬¬äºŒç« ä¹ é¢˜
 
   
 2-12
@@ -11,7 +11,7 @@ using namespace std;
 
 int main(){
 	int n;
-	for(n=100;n<=200,n=n+2;)  {  //×¢Òâ´ËÊ±¼ÆÊı³¤¶ÈÎª2 ËùÒÔ²»¿ÉÒÔÔÙn++; 
+	for(n=100;n<=200,n=n+2;)  {  //æ³¨æ„æ­¤æ—¶è®¡æ•°é•¿åº¦ä¸º2 æ‰€ä»¥ä¸å¯ä»¥å†n++; 
 	
 		
 	cout<<n<<endl;
@@ -28,7 +28,7 @@ int n=100;
 do{
 	n=n+2;
 }
-while(n<=200);  //¼ÇµÃ·ÖºÅ
+while(n<=200);  //è®°å¾—åˆ†å·
 cout<<"n="<<n<<endl;
 return 0;
 */
@@ -40,9 +40,9 @@ using namespace std;
 
 int main(){
 	int x,y;
-	cout<<"ÇëÊäÈëx"<<endl;
+	cout<<"è¯·è¾“å…¥x"<<endl;
 	cin>>x;
-	cout<<"ÇëÊäÈëy"<<endl;
+	cout<<"è¯·è¾“å…¥y"<<endl;
 	cin>>y;
 
 	if(x>y){
@@ -51,7 +51,7 @@ int main(){
 	else{
 		y=x;
 	}
-cout<<"xµÄÖµÊÇ"<<x<<endl;
-cout<<"yµÄÖµÊÇ"<<y<<endl;
+cout<<"xçš„å€¼æ˜¯"<<x<<endl;
+cout<<"yçš„å€¼æ˜¯"<<y<<endl;
 return 0;
 }*/ 
